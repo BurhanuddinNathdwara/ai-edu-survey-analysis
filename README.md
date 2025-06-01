@@ -1,7 +1,7 @@
 
 ---
 
-## 📑 About the Project
+📑 About the Project
 
 This research explores students’ views on the integration of AI in education and investigates three key areas:
 1. **Is AI making learning more accessible?**
@@ -16,7 +16,7 @@ The report is supported by **20 peer-reviewed academic references** and includes
 
 ---
 
-## 📊 Key Deliverables
+📊 Key Deliverables
 
 - ✅ Full research report in PDF format  
 - ✅ Chicago-formatted reference list  
@@ -25,7 +25,7 @@ The report is supported by **20 peer-reviewed academic references** and includes
 
 ---
 
-## 🔖 Citation
+🔖 Citation
 
 If you use this research in your own work, please cite it as:
 
@@ -33,14 +33,14 @@ If you use this research in your own work, please cite it as:
 
 ---
 
-## 📜 License
+📜 License
 
 This project is licensed under the **MIT License**.  
 You are free to share, use, and adapt the material with appropriate credit.
 
 ---
 
-## 🤝 Contributions
+🤝 Contributions
 
 Want to improve the report, translate it, or reuse the structure for your own study?
 
@@ -50,7 +50,7 @@ Want to improve the report, translate it, or reuse the structure for your own st
 
 ---
 
-## 🔍 Tags / Topics
+🔍 Tags / Topics
 
 `AI` · `Education` · `Student Perceptions` · `Survey Research` · `Academic Report` · `Artificial Intelligence in Learning`
 
