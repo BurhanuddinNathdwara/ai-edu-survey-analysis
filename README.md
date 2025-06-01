@@ -19,7 +19,7 @@ The report is supported by **20 peer-reviewed academic references** and includes
 ## 📊 Key Deliverables
 
 - ✅ Full research report in PDF format  
-- ✅ APA-formatted reference list  
+- ✅ Chicago-formatted reference list  
 - ✅ Survey response charts and summary data  
 - ✅ GitHub-friendly structure for academic sharing  
 
